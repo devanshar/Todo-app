@@ -60,7 +60,7 @@ await todo.update({
     })
     res.json({
         msg:"Todo marked as completed"
-    })
+    }) 
 
 })
 
